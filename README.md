@@ -6,7 +6,7 @@ You can use this workflow to trigger any Zap that starts with a Webhooks trigger
 
 1. Make a Zap, if you don't already have it. Open [zapier.com](https://zapier.com/), login to your Zapier account, and make a new Zap with the Webhooks Catch Hook trigger.
 2. Copy the Webhooks URL from Zapier. It'll be something like https://hooks.zapier.com/hooks/catch/123456/1abcde/.
-3. Double-click the Value field beside ZAP_URL on the right, paste your Webhooks URL instead of the instruction text, then press save.
+3. Double-click the Value field beside ZAP_URL on the right pane of the workflow settings in Alfred, then paste your Webhooks URL instead of the instruction text and press save.
 4. Open Alfred, type Zap followed by the text you want to use, then press enter.
 5. Now go back to Zapier and finish setting up your Zap.
 6. Whenever you want to run that Zap, just open Alfred, type Zap, and enter the text you want to send to Zapier.

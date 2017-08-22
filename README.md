@@ -6,7 +6,7 @@ Trigger your [Zapier](https://zapier.com/) workflows from Mac productivity app [
 
 Zapier is a web app automation tool that lets you build workflows with over 750 popular web apps—from Salesforce to Gmail, Stripe to Evernote—to automate your tasks and get more done, with search actions to find data in your apps, actions to add data to your tasks and get work done automatically, and multiple steps to get a whole workflow of tasks done at once. And with Alfred, you can trigger those Zap workflows right from your Mac keyboard.
 
-You can use this workflow to trigger any Zap that starts with a Webhooks trigger, via its bash CURL command. Install the Alfred workflow—then here's how to use it:
+You can use this workflow to trigger any Zap that starts with a Webhooks trigger, via its bash CURL command. [Download Zapier for Alfred](https://github.com/zapier/Zapier-for-Alfred/archive/master.zip), and install it in Alfred—then here's how to use it:
 
 1. Make a Zap, if you don't already have it. Open [zapier.com](https://zapier.com/), login to your Zapier account, and make a new Zap with the Webhooks Catch Hook trigger.
 2. Copy the Webhooks URL from Zapier. It'll be something like https://hooks.zapier.com/hooks/catch/123456/1abcde/.

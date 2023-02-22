@@ -1,6 +1,6 @@
 # Zapier for Alfred
 
-[![](https://cdn.zappy.app/a918d91296c7bdd21e9519a909266d73.png)](https://zapier.com/blog/zapier-for-alfred/)
+[![Zapier For Alfred Workflow](https://cdn.zappy.app/317be809816f5a5854839f7b8520c35e.png)](https://zapier.com/blog/zapier-for-alfred/)
 
 Trigger your [Zapier](https://zapier.com/) workflows from Mac productivity app [Alfred](https://www.alfredapp.com/).
 
@@ -10,7 +10,7 @@ You can use this workflow to trigger any Zap that starts with a Webhooks trigger
 
 1. Make a Zap, if you don't already have one. Open [zapier.com](https://zapier.com/), log in to your Zapier account, and make a new Zap with the Webhooks by Zapier app, using the Catch Hook trigger.
 2. Copy the Webhooks URL from your Zap. It'll look something like `https://hooks.zapier.com/hooks/catch/123456/1abcde/`.
-3. Double-click the Value field beside ZAP_URL in the Environment Variables tab in the workflow settings in Alfred (click the {x}), then paste your Webhooks URL and click save.
+3. Double-click the Value field beside ZAP_URL in the Environment Variables tab in the workflow settings in Alfred (click the `{x}`), then paste your Webhooks URL and click save.
 4. Open Alfred, type `zap` followed by the text you want to send, then press enter.
 5. Go back to Zapier and finish setting up your Zap.
 6. Whenever you want to run that Zap, just open Alfred, type `zap`, and enter the text you want to send to Zapier.
@@ -19,9 +19,9 @@ If you run into any trouble with the information coming through the Zap, please 
 
 ![Escaping](https://cdn.zappy.app/f7302b7883401e2ad78e5e2d850fe7ca.png)
 
-These settings can be found by clicking Configure Object in the Run Script object.
+These settings can be found by clicking **Configure Object** in the Run Script object.
 
-Want to use this workflow with more than one Zap? Just right-click on "Zapier for Alfred" in the sidebar, select Duplicate, then add your new Zap's Webhook URL to the environment variables and add a new keyword to the keyword option.
+Want to use this workflow with more than one Zap? Just right-click on "Zapier for Alfred" in your Workflows sidebar, select Duplicate, then add your new Zap's Webhook URL to the environment variables and add a new keyword to the keyword option.
 
 Enjoy!
 
